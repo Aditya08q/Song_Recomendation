@@ -16,3 +16,7 @@ It uses a **content-based recommendation engine** powered by NLP techniques on s
 - 🧾 Clean code and modular structure
 
 ---
+📸 App Screenshot
+
+![App Screenshot](01.png)
+![App Screenshot](02.png)
